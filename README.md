@@ -1,9 +1,11 @@
 # Paritionner
-Partition a list to sublist with a max length
+Partition a list to a list of sublists with a max length
 
 Input
 n
+
 m
+
 I1 I2 I3 ... Im
 
 n: max legth
@@ -12,7 +14,9 @@ I1..Im m elements of the list
 
 Exemple Input:
 3
+
 5
+
 1 2 3 4 5
 
 Output
